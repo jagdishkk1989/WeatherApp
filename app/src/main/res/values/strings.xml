@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="title_weather_details">Weather Details</string>
+    <string name="title_no_internet">No Internet Connection</string>
+    <string name="no_internet_message">Please check your internet connection and try again.</string>
+    <string name="err_weather_info">Error Fetch Weather Info</string>
+    <string name="unable_to_fetch_weather_info">Unable to fetch weather information. Press retry button to try again.</string>
+
+    <string name="please_wait">Please wait</string>
+    <string name="progress_dialog">Fetching weather data...</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_retry">Retry</string>
+    <string name="lbl_min_temp">Min Temp: </string>
+    <string name="lbl_max_temp">Min Temp: </string>
+    <string name="lbl_humidity">Humidity: </string>
+    <string name="lbl_wind">Wind: </string>
+    <string name="lbl_sea_level">Sea Level: </string>
+    <string name="lbl_grnd_level">Ground Level: </string>
+    <string name="lbl_pressure">Pressure: </string>
+
+
+
+
+</resources>
