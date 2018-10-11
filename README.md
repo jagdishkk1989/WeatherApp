@@ -1,4 +1,11 @@
 # WeatherApp Android
+
+Android Configuration Required:
+1. Android Studio 3.1.2
+2. minSdkVersion 15 and targetSdkVersion 27
+
+
+
 Follow the below steps to run application.
 
 First you need to create openweathermap API key.  
