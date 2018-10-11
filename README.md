@@ -9,7 +9,7 @@ Android Configuration Required:
 Follow the below steps to run application.
 
 First you need to create openweathermap API key.  
-1. Got to https://openweathermap.org/
+1. Go to https://openweathermap.org/
 2. Sign up account and create default map api key.
 3. Copy that key.
 4. Go to file "gradle.properties" in project and add key to the variable below.
