@@ -1,4 +1,4 @@
-# WeatherApp
+# WeatherApp Android
 Follow the below steps to run application.
 
 First you need to create openweathermap API key.  
